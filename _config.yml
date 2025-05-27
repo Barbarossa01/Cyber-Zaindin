@@ -22,3 +22,7 @@ yat:
   sidebar:
     avatar: "/assets/images/avatar.png"
     bio: "Cybersecurity | SOC | Red Team & Blue Team Enthusiast"
+
+markdown: kramdown
+kramdown:
+  input: GFM
