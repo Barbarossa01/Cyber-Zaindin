@@ -4,6 +4,7 @@ baseurl: "" # Do not set unless using a subpath
 url: "https://Cyber-Zain-Din.github.io"
 
 remote_theme: jeffreytse/jekyll-theme-yat
+theme: jekyll-theme-yat
 
 plugins:
   - jekyll-remote-theme
